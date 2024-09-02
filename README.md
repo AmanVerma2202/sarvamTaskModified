@@ -46,10 +46,10 @@ Process PDF documents and analyze their content. The application starts by allow
 
 
 ## Features
-**PDF Upload**: Users can upload any PDF file through the web interface.
-**Character Extraction**: The application extracts each character from the PDF along with its associated metadata, such as font style, size, color, position, and Unicode value.
-**AI Analysis**: The extracted data is sent to Google Gemini AI, which analyzes the text and provides additional insights.
-**User-Friendly UI**: The results from the AI analysis are displayed in a clean and organized manner for easy understanding.
+**PDF Upload**: Users can upload any PDF file through the web interface.<br/>
+**Character Extraction**: The application extracts each character from the PDF along with its associated metadata, such as font style, size, color, position, and Unicode value.<br/>
+**AI Analysis**: The extracted data is sent to Google Gemini AI, which analyzes the text and provides additional insights.<br/>
+**User-Friendly UI**: The results from the AI analysis are displayed in a clean and organized manner for easy understanding.<br/>
 
 
 
