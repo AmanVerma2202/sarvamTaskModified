@@ -26,7 +26,7 @@ Clone the repository:
  ```
 
 ## Demo Video
-[<img src="" width="50%">](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)
+[![Watch the demo video](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)
 
 
 ## Photos
