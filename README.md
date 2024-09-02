@@ -25,8 +25,8 @@ Clone the repository:
    python st1.py
  ```
 
-## Demo
-
+## Demo Video
+[<img src="" width="50%">](https://github.com/AmanVerma2202/sarvamTaskModified/blob/main/saravm_dzKckfRg%20(1).mp4)
 
 
 ## Photos
